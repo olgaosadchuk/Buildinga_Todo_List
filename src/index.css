@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.todo-list {
+  max-width: 400px;
+}
+
+.new-todo-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
